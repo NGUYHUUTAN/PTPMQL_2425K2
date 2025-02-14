@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\PTPMQL_2425K2\\Demomvc\\DemoMvc.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\PTPMQL_2425K2\\DemoMvc\\DemoMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\PTPMQL_2425K2\\Demomvc\\DemoMvc.csproj": {
+    "C:\\Users\\Admin\\Desktop\\PTPMQL_2425K2\\DemoMvc\\DemoMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PTPMQL_2425K2\\Demomvc\\DemoMvc.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PTPMQL_2425K2\\DemoMvc\\DemoMvc.csproj",
         "projectName": "DemoMvc",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\PTPMQL_2425K2\\Demomvc\\DemoMvc.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\PTPMQL_2425K2\\DemoMvc\\DemoMvc.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\PTPMQL_2425K2\\Demomvc\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\PTPMQL_2425K2\\DemoMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
